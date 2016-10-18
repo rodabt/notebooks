@@ -1,4 +1,4 @@
-# Notebooks de Julia, Python o R para compartir
+# Python, R and Julia Notebooks to share
 
 This repo contains some of my work with Python, Julia and R notebooks. Most of them in spanish.
 
